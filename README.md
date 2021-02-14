@@ -5,4 +5,8 @@
 ---
 ## **A brief analysis of Apple Pay**
 --- 
-I'm going to answer a few key questions about Apple
+I'm going to answer a few key questions about Apple Pay.
+---
+Contributor: 
+---
+*Daryl Redmond
