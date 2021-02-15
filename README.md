@@ -9,5 +9,6 @@ I'm going to answer a few key questions about Apple Pay.
 ---
 Contributor: 
 ---
-*Daryl Redmond\s\s
+*Daryl Redmond 
+
 This is a test to see if this prints on a new line or not.
