@@ -1,4 +1,4 @@
-**#FinTech Case Study**
+#**FinTech Case Study**#
 ---
 ##**Overview and Origin**  
 **Company Name:**  
